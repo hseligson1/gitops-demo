@@ -1,1 +1,1 @@
-# gitops-demo
+# hs-demo
